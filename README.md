@@ -1,7 +1,7 @@
 # ZapVariant
 IPTV Failover and Monitoring System
 
-The plugin acts as a "digital repairman" that watches your live streams in the background. If a channel freezes or begins to stutter, the plugin instantly searches your bouquets for an alternative version (variant) of that same channel and "zaps" to it automatically. This ensures that even if one stream source fails, the box recovers the broadcast for you hands-free.
+The plugin acts as a "digital repairman" that watches your live streams in the background. If a channel freezes or begins to stutter, the plugin instantly searches your bouquets for an alternative version (variant) of that same channel and "zaps" to it automatically. This ensures that even if one stream source fails, the box recovers the broadcast for you hands-free. Originally the plugin started as manual hotkey plugin to cycle through backups but has now grown arms and legs to become an AIO Digital Repairman & Hotkey plugin.
 
 Features:
 
