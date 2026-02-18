@@ -1,6 +1,8 @@
 # ZapVariant
 IPTV Failover and Monitoring System
 
+The plugin acts as a "digital repairman" that watches your live streams in the background. If a channel freezes or begins to stutter, the plugin instantly searches your bouquets for an alternative version (variant) of that same channel and "zaps" to it automatically. This ensures that even if one stream source fails, the box recovers the broadcast for you hands-free.
+
 Features:
 
 1. Intelligent Stream Monitoring
